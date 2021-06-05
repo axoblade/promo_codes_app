@@ -3,8 +3,9 @@
 A Laravel Restful API to create promo codes, validate and give discounts basing on code worth in shillings. 
 All responses are formatted json and can be consumed by any platform
 
-Tests were done using PostMan and the collections can be found below
->['Promo App Routes Collection'](https://www.getpostman.com/collections/b3c584fddde084efcf80)
+Tests were done using PostMan and the collections can be found below:
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/13205657-d6a38d12-9069-4078-a437-5faf6c0fdbc9?action=collection%2Ffork&collection-url=entityId%3D13205657-d6a38d12-9069-4078-a437-5faf6c0fdbc9%26entityType%3Dcollection%26workspaceId%3D796d9a5f-e271-4467-ac20-cb4c3a5d2ec1#?env%5BPromo_Codes_app%5D=W3sia2V5IjoiVVJMIiwidmFsdWUiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAiLCJlbmFibGVkIjp0cnVlfV0=)
 
 Follow the Laravel installation guide included at the bottom of this repo
 
