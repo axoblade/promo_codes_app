@@ -1,9 +1,9 @@
 # Project: Promo_Codes App
 ## Description: # Introduction
-API Source code can br found at:
-https://github.com/axoblade/promo_codes_app.git
+A Laravel Restful API to create promo codes, validate and give discounts basing on code worth in shillings. All responses are formatted json and can be consumed by any platform
 
-Radius is in meters
+
+Follow the Laravel installation guide included at the bottom of this repo
 
 
 ## End-point: Get All Promo Codes
@@ -18,7 +18,7 @@ Method: GET
 
 ## End-point: Create Promo Code
 ### Description: 
-Method: POST
+Method: POST (Note: Radius is in meters)
 >```
 >{{URL}}/api/promo_codes
 >```
